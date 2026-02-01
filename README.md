@@ -2,8 +2,8 @@
 
 Live Demo: https://regex-tester.harshitchaturvedy.com
 
-![GitHub stars](https://img.shields.io/github/stars/harshitchaturvedy1/regex-tester)
-![GitHub issues](https://img.shields.io/github/issues/harshitchaturvedy1/regex-tester)
+![GitHub stars](https://img.shields.io/github/stars/harshitchaturvedy1/regex-test)
+![GitHub issues](https://img.shields.io/github/issues/harshitchaturvedy1/regex-test)
 ![GitHub Pages](https://img.shields.io/badge/demo-live-brightgreen)
 
 
